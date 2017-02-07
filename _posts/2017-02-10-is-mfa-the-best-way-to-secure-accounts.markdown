@@ -101,7 +101,7 @@ Say someone tries to call your bank's customer support to reset your password—
 
 At many companies where multifactor authentication is tried but fails, one of the most common complaints is that it makes logging in too much of a hassle for users. 
 
-They have to first enter in their username and password, and *then *open up their email client or take out their phone, and *then *manually copy a code. Or they lose the hardware key that they were given during onboarding, or they misplace their mobile device and are no longer able to login to anything. 
+They have to first enter in their username and password, and *then* open up their email client or take out their phone, and *then* manually copy a code. Or they lose the hardware key that they were given during onboarding, or they misplace their mobile device and are no longer able to login to anything. 
 
 These companies get so many annoyed emails from their employees, or start noticing users forgetting their passwords and consequently churning, that they finally turn MFA off. 
 
